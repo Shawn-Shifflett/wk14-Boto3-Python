@@ -25,6 +25,7 @@ def delete():
     
     print(len(d))
     
+    #deletes multiple files at once
     #for i in d:
      #   s3Resource.delete_object(
       #      Bucket = "boto3pract1", 
